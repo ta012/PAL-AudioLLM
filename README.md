@@ -2,7 +2,7 @@
 
 This repository contains the code and other resources for the paper **PAL: Probing Audio Encoders via LLMs - A Study of Information Transfer from Audio Encoders to LLMs**.
 
-**[Project Page](https://ta012.github.io/PAL/)** | **[Link to arXiv Paper]** (Link will be added upon publication) | **[Hugging Face Demo]** (Coming Soon)
+**[Project Page](https://ta012.github.io/PAL/)** | **[Link to arXiv Paper](https://www.arxiv.org/abs/2506.10423)**
 
 ---
 
@@ -19,11 +19,12 @@ The code and models will be made available here soon.
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@misc{alex2025pal,
-    title        = {PAL: Probing Audio Encoders via LLMs - A Study of Information Transfer from Audio Encoders to LLMs},
-    author       = {Tony Alex and Wish Suharitdamrong and Sara Atito and Armin Mustafa and Philip J. B. Jackson and Imran Razzak and Muhammad Awais},
-    year         = {2025},
-    eprint       = {},
-    archivePrefix= {arXiv},
-    primaryClass = {cs.SD}
+@misc{alex2025palprobingaudioencoders,
+      title={PAL: Probing Audio Encoders via LLMs -- A Study of Information Transfer from Audio Encoders to LLMs}, 
+      author={Tony Alex and Wish Suharitdamrong and Sara Atito and Armin Mustafa and Philip J. B. Jackson and Imran Razzak and Muhammad Awais},
+      year={2025},
+      eprint={2506.10423},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2506.10423}, 
 }
